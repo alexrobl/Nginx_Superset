@@ -1,0 +1,5 @@
+
+# Conexiones Metro
+"databricks-dbapi[sqlalchemy]"
+"superset[databricks]"
+pymssql
